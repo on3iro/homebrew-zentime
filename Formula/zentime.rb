@@ -4,8 +4,8 @@
 class Zentime < Formula
   desc "Pomodoro and productivity timer written in rust"
   homepage "https://github.com/on3iro/zentime"
-  url "https://github.com/on3iro/zentime-rs/releases/download/0.6.0/zentime.tar.gz"
-  sha256 "9b84c4229bc5ef8c2f557a591ca9a2757c00faf05e692c1ecd7479d5e1d1c9d8"
+  url "https://github.com/on3iro/zentime-rs/releases/download/0.7.0/zentime.tar.gz"
+  sha256 "5b741d72597fb5586766ce63935aae86c86cf497fd9f5e8a658bafdd360053cf"
   license "MIT"
 
   def install
